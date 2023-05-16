@@ -1,3 +1,41 @@
 body {
-
+  background-color: pink;
+}
+h1{
+  color:#810E6C;
+  font-size:50px; 
+  text-decoration-line: overline underline;
+ }
+p{
+  color:#810E6C; 
+  font-size:25px;
+}
+img{
+  width:30%;
+  border: groove 10px #810E6C;
+} 
+iframe{  
+  text-align: margin-left;
+} 
+iframe{  
+  text-align: margin-right;
+} 
+ul{
+  list-style-type: none;
+  text-align: center; 
+  position: fixed;
+} 
+li{
+  float: left;
+} 
+li a{
+  padding: 40px;
+  color: #810E6C;
+  font-family: lucida handwriting, cursive; 
+  text-decoration: none; 
+  border: dashed;    
+}
+li a:hover{
+  background-color: white;
+  color: pink;
 }
